@@ -1,0 +1,13 @@
+leaf position: 19
+leaf value: "data item 19"
+Hash values in proof:
+  QFPAWNYSrfTHm7uWIorl4Es1j2gLctuBGVtdBDGdWc0=
+  /Oc7eMWCA2flVqqM5UvD0rkYbyQTsH0cNwKWLC0J5uU=
+  V4uTx4VYzP5+FXMfSx3dbIF/EcR4c2rPeDRDNwmZnQs=
+  mZ5y1U3d/wNwkVEWvN/vQbgT0pO4BYLLuAJ0+nkHRxM=
+  Lqxlfsyvja712jFDg/4oOnMOy7VY0kHgMMikG3IBeBQ=
+  WvKwt85bJ+/dLi3E924qtr43OwNHvFBcYij4vN3+DKg=
+  NJFch+5zT/i3C7QjP+hFHf0l2TXCyYFjWYhffLbHlN8=
+  FP24vS8Xd/nfd+lEEPM8KnAMcnuS7lcLrlX/sOvmjR8=
+  k2gokRSfhSJsyBjnj8/GvxDvilSmCUdm0wlhO9wSlZE=
+  suvPN/Iy9ix69Jq60Tyn7eWVF5kDF/5pZMaGdjHHogQ=
